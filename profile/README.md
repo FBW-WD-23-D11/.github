@@ -1,9 +1,5 @@
 ## Github Organisation WD23 D11
 
-[Google Meets Link](https://meet.google.com/wiz-etbj-kck) 
-
-[Oscar's Live-Notizen](https://docs.google.com/document/d/1AvFpG8utW4j1hZ4gME_9Zr-l9mgWvI3O14_yFSa0Nis/edit)
-
 Curriculum (Ein `<=` Indiziert in welchem Modul wir uns gerade befinden)
 1. [Basic Digital Literacy](https://github.com/FBW-WD-23-D11/basic-digital-literacy)
 2. [UI Basics](https://github.com/FBW-WD-23-D11/ui-basics)
